@@ -93,4 +93,8 @@ Membuat aplikasi Blog: Mengklon Medium Menggunakan Django versi 5
 #### 2. Seting bahasa dan waktu
 
         modified:   README.md
-        modified:   config/settings.p
+        modified:   config/settings.py
+
+
+## 4. DATABASE
+
