@@ -27,3 +27,15 @@ Membuat aplikasi Blog: Mengklon Medium Menggunakan Django versi 5
 
         modified:   .gitignore
         modified:   README.md
+
+#### 3. Menginstal Django versi 5.0.7
+
+        (venv312507) λ pip install django==5.0.7
+        Collecting django==5.0.7
+          ...
+        Successfully installed asgiref-3.8.1 django-5.0.7 sqlparse-0.5.1 tzdata-2024.1
+
+        [notice] A new release of pip is available: 23.2.1 -> 24.2
+        [notice] To update, run: python.exe -m pip install --upgrade pip
+
+        modified:   README.md
