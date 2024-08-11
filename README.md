@@ -126,3 +126,8 @@ Membuat aplikasi Blog: Mengklon Medium Menggunakan Django versi 5
         ...
         +---------------------------------------------------------+
         120 rows in set (0.09 sec)
+
+#### 2. Menghubungkan proyek dengan database
+
+        modified:   README.md
+        modified:   config/settings.py
