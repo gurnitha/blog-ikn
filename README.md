@@ -89,3 +89,8 @@ Membuat aplikasi Blog: Mengklon Medium Menggunakan Django versi 5
         deleted:    venv312507/Scripts/python.exe
         deleted:    venv312507/Scripts/pythonw.exe
         deleted:    venv312507/pyvenv.cfg
+
+#### 2. Seting bahasa dan waktu
+
+        modified:   README.md
+        modified:   config/settings.p
