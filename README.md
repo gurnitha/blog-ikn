@@ -135,3 +135,10 @@ Membuat aplikasi Blog: Mengklon Medium Menggunakan Django versi 5
 #### 3. Menginstal MySQL driver (mysqlclient)
 
         (venv312507) λ pip install mysqlclient
+
+#### 4. Meng-upgrade pip
+
+        (venv312507) λ python.exe -m pip install --upgrade pip
+        Requirement already satisfied: pip in 
+        ...
+        Successfully installed pip-24.2
