@@ -147,3 +147,15 @@ Membuat aplikasi Blog: Mengklon Medium Menggunakan Django versi 5
 
         C:\Users\ING\Desktop\django5-blog\src(main -> origin)
         (venv312507) λ python manage.py migrate
+
+#### 6. Membuat superuser
+
+        C:\Users\ING\Desktop\django5-blog\src(main -> origin)
+        (venv312507) λ python manage.py createsuperuser
+        Nama pengguna (leave blank to use 'ing'): superuser
+        Alamat email: superuser@mail.com
+        Password:
+        Password (again):
+        Kata sandi terlalu mirip dengan alamat email.
+        Bypass password validation and create user anyway? [y/N]: y
+        Superuser created successfully.
