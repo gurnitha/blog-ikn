@@ -52,3 +52,8 @@ Membuat aplikasi Blog: Mengklon Medium Menggunakan Django versi 5
         new file:   config/config/urls.py
         new file:   config/config/wsgi.py
         new file:   config/manage.py
+
+#### 2. Menjalankan server django
+
+        (venv312507) λ python manage.py runserver
+        modified:   README.md
