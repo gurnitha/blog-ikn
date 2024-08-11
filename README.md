@@ -57,3 +57,8 @@ Membuat aplikasi Blog: Mengklon Medium Menggunakan Django versi 5
 
         (venv312507) λ python manage.py runserver
         modified:   README.md
+
+#### 3. Mengaktifkan default app django
+
+        (venv312507) λ python manage.py migrate
+        modified:   README.md
