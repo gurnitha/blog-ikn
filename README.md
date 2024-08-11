@@ -66,3 +66,6 @@ Membuat aplikasi Blog: Mengklon Medium Menggunakan Django versi 5
 #### 4. Membuat superuser
 
         modified:   README.md
+
+
+## 3. SETTING
