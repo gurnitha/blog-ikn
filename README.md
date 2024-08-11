@@ -142,3 +142,8 @@ Membuat aplikasi Blog: Mengklon Medium Menggunakan Django versi 5
         Requirement already satisfied: pip in 
         ...
         Successfully installed pip-24.2
+
+#### 5. Mengaktifkan default app django
+
+        C:\Users\ING\Desktop\django5-blog\src(main -> origin)
+        (venv312507) λ python manage.py migrate
