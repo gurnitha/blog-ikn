@@ -39,3 +39,6 @@ Membuat aplikasi Blog: Mengklon Medium Menggunakan Django versi 5
         [notice] To update, run: python.exe -m pip install --upgrade pip
 
         modified:   README.md
+
+
+## 2. PROYEK DJANGO
