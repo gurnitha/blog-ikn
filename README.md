@@ -17,3 +17,13 @@ Membuat aplikasi Blog: Mengklon Medium Menggunakan Django versi 5
         new file:   venv312507/Scripts/python.exe
         new file:   venv312507/Scripts/pythonw.exe
         new file:   venv312507/pyvenv.cfg
+
+#### 2. Mengaktifkan lingkungan virtual
+
+        λ venv312507\Scripts\activate.bat
+
+        C:\Users\ING\Desktop\django5-blog(main -> origin)
+        (venv312507) λ
+
+        modified:   .gitignore
+        modified:   README.md
